@@ -51,7 +51,7 @@ class Int:
     CATEGORY = "Logic"
 
     def execute(self, value):
-        return value
+        return (value, )
 
 
 class Compare:
