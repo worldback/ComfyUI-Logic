@@ -48,8 +48,11 @@ Executes the `IF_TRUE` node if the `ANY` input is `True`, otherwise it executes 
 
 Prints the provided input to the console. Useful for debugging.
 
+### Description
 
-## Author
+Fixed a bug  where int node  has no length.
+
+## Original Author
 - David Fischer
 - GitHub: [theUpsider](https://github.com/theUpsider)
 - Support me on [BuyMeACoffee](https://www.buymeacoffee.com/theupsider)
