@@ -54,5 +54,4 @@ Fixed a bug  where int node  has no length.
 
 ## Original Author
 - David Fischer
-- GitHub: [theUpsider](https://github.com/theUpsider)
-- Support me on [BuyMeACoffee](https://www.buymeacoffee.com/theupsider)
+- GitHub: [theUpsider](https://github.com/theUpsider
